@@ -1,0 +1,4 @@
+Hi Qa Team, 
+This is the new repo for our new atomation code and we need to stabilise this and 
+have to update on daily basis
+then only we learn and collaborate
